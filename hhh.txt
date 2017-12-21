@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Luke is hhh.
 LiHonghao is so strong. Hahaha.. Jocking!
 What are you fucking doing！
+=======
+LiHonghao is so strong. Hahaha.. Jocking!
+哈哈哈，一点也不好笑好吗。
+>>>>>>> f9f02d2f44e81735fd48db0a7d7898581969f48c
